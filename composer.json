@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/laravel-wechat",
+    "name": "violet250/laravel-wechat",
     "description": "微信 SDK for Laravel",
     "keywords": ["wechat", "weixin","laravel", "sdk"],
     "require": {
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "violet250\\LaravelWechat\\": "src/"
+            "violet\\LaravelWechat\\": "src/"
         }
     },
 
@@ -15,8 +15,8 @@
     "minimum-stability" : "dev",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "violet",
+            "email": "violet_250@163.com"
         }
     ]
 }
